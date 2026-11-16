@@ -6,4 +6,4 @@
 ## Summary and Key Results
 $GL_n(Q)$ is the multiplicative group of invertible $n\times n$ rational matrices. For a fixed $n$, its finite subgroups cannot be arbitrarily large.
 In addition to Minkowski's theorem, this paper presents a complete solution to the order of the largest subgroups for each $n$. For $n = 1, 3, 5$ and $n > 10$, they are isomorphic to the orthogonal group $O_n(Z)$ of integer $n\times n$ matrices. There are only seven exceptions. The paper lists the other six after proving that the largest subgroups of $GL_2(Q)$ have order 12.
-The last section of the paper uses Galois theory to build a powerful formula that decides whether $GL_n(Q)$ admits a cyclic subgroup of a given order.
+The paper's last section uses Galois theory to build a powerful formula that decides whether $GL_n(Q)$ admits a cyclic subgroup of a given order. In other words, the formula finds the possible orders of rational and integer $n\times n$ matrices.
